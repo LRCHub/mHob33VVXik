@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "再会",
+  "base_artist": "シャイトープ",
+  "createdAt": "2026-03-11T09:41:18.368907Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "再会",
+      "artist": "V.W.P",
+      "has_synced": false,
+      "path": "select/01_再会_V.W.P.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "再会 (produced by Ayase)",
+      "artist": "LiSA feat. Uru",
+      "has_synced": true,
+      "path": "select/02_再会_(produced_by_Ayase)_LiSA_feat._Uru.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "再会 (produced by Ayase)",
+      "artist": "LiSA/Uru",
+      "has_synced": true,
+      "path": "select/03_再会_(produced_by_Ayase)_LiSA_Uru.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "再会 Self-cover ver.",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/04_再会_Self-cover_ver._Uru.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "再会 (produced by Ayase)",
+      "artist": "LiSA/Uru",
+      "has_synced": true,
+      "path": "select/05_再会_(produced_by_Ayase)_LiSA_Uru.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "再会 (produced by Ayase)",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/06_再会_(produced_by_Ayase)_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "再会",
+      "artist": "ギルガメッシュ",
+      "has_synced": false,
+      "path": "select/07_再会_ギルガメッシュ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "再会",
+      "artist": "V.W.P",
+      "has_synced": true,
+      "path": "select/08_再会_V.W.P.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "再会",
+      "artist": "Miki Imai",
+      "has_synced": true,
+      "path": "select/09_再会_Miki_Imai.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "再会～Story～",
+      "artist": "Gackt",
+      "has_synced": true,
+      "path": "select/10_再会~Story~_Gackt.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "再会 - Saikai",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/11_再会_-_Saikai_Uru.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "再会 - Saikai",
+      "artist": "LiSA,Uru",
+      "has_synced": true,
+      "path": "select/12_再会_-_Saikai_LiSA,Uru.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "再会",
+      "artist": "LiSA×Uru (produced by Ayase)",
+      "has_synced": true,
+      "path": "select/13_再会_LiSA×Uru_(produced_by_Ayase).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "再会",
+      "artist": "シャイトープ",
+      "has_synced": false,
+      "path": "select/pl_01_再会_シャイトープ.txt"
+    }
+  ]
+}
